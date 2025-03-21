@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67ddae7b7f6afdd0eab71241"
+  },
+  "studentRoll": "BCS-21001",
+  "courseCode": "CS201"
+},
+{
+  "_id": {
+    "$oid": "67ddae7b7f6afdd0eab71242"
+  },
+  "studentRoll": "BCS-21001",
+  "courseCode": "CS301"
+},
+{
+  "_id": {
+    "$oid": "67ddae7b7f6afdd0eab71243"
+  },
+  "studentRoll": "BCS-21002",
+  "courseCode": "CS401"
+},
+{
+  "_id": {
+    "$oid": "67ddae7b7f6afdd0eab71244"
+  },
+  "studentRoll": "BCS-21003",
+  "courseCode": "CS501"
+}]

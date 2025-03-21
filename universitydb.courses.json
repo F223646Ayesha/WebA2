@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67ddae437f6afdd0eab7123d"
+  },
+  "courseName": "Data Structures",
+  "courseCode": "CS201",
+  "seats": 50
+},
+{
+  "_id": {
+    "$oid": "67ddae437f6afdd0eab7123e"
+  },
+  "courseName": "Operating Systems",
+  "courseCode": "CS301",
+  "seats": 45
+},
+{
+  "_id": {
+    "$oid": "67ddae437f6afdd0eab7123f"
+  },
+  "courseName": "Database Systems",
+  "courseCode": "CS401",
+  "seats": 40
+},
+{
+  "_id": {
+    "$oid": "67ddae437f6afdd0eab71240"
+  },
+  "courseName": "Artificial Intelligence",
+  "courseCode": "CS501",
+  "seats": 35
+}]

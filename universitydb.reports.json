@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67ddaea77f6afdd0eab71245"
+  },
+  "reportType": "Course Enrollments",
+  "generatedAt": {
+    "$date": "2025-03-21T18:23:35.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ddaea77f6afdd0eab71246"
+  },
+  "reportType": "Available Seats",
+  "generatedAt": {
+    "$date": "2025-03-21T18:23:35.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ddaea77f6afdd0eab71247"
+  },
+  "reportType": "Missing Prerequisites",
+  "generatedAt": {
+    "$date": "2025-03-21T18:23:35.597Z"
+  }
+}]
